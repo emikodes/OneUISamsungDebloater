@@ -1,0 +1,100 @@
+com.android.bips|Consigliato: Rimuovere se non usi la stampa wireless. Effetto: Non potrai stampare su stampanti compatibili con BIPS.
+com.android.bookmarkprovider|Consigliato: Rimuovere se non usi il browser predefinito Android. Effetto: Perdita dei segnalibri preinstallati.
+com.android.chrome|Consigliato: Rimuovere solo se usi un altro browser. Effetto: Non potrai utilizzare Chrome, ma puoi reinstallarlo dal Play Store.
+com.android.hotwordenrollment.okgoogle|Consigliato: Rimuovere se non usi "Ok Google". Effetto: Il comando vocale non funzionerà.
+com.android.hotwordenrollment.xgoogle|Consigliato: Rimuovere se non usi "Ok Google". Effetto: Il comando vocale non funzionerà.
+com.android.htmlviewer|Consigliato: Rimuovere se usi un'altra app per visualizzare file HTML. Effetto: Perdita del visualizzatore HTML.
+com.android.managedprovisioning|Consigliato: Rimuovere se non usi il telefono in ambienti aziendali. Effetto: Potresti avere problemi con l'accesso aziendale.
+com.android.printspooler|Consigliato: Rimuovere se non usi la stampa. Effetto: Non potrai stampare.
+com.android.providers.partnerbookmarks|Consigliato: Rimuovere, di solito inutile. Effetto: Nessuno, se non usi i segnalibri predefiniti.
+com.android.stk|Consigliato: Rimuovere se non usi SIM Toolkit. Effetto: Perdita delle funzioni SIM avanzate (es. ricariche).
+com.android.stk2|Consigliato: Rimuovere se non usi SIM Toolkit. Effetto: Perdita delle funzioni SIM avanzate (es. ricariche).
+com.android.traceur|Consigliato: Rimuovere per utenti non sviluppatori. Effetto: Non potrai fare debug avanzato.
+com.facebook.appmanager|Consigliato: Rimuovere se non usi Facebook. Effetto: Facebook non funzionerà finché non la reinstalli.
+com.facebook.katana|Consigliato: Rimuovere se non usi Facebook. Effetto: Facebook non funzionerà finché non la reinstalli.
+com.facebook.services|Consigliato: Rimuovere se non usi Facebook. Effetto: Facebook non funzionerà finché non la reinstalli.
+com.facebook.system|Consigliato: Rimuovere se non usi Facebook. Effetto: Facebook non funzionerà finché non la reinstalli.
+com.google.android.apps.messaging|Effetto: Non potrai inviare SMS con questa app.
+com.google.android.apps.restore|Consigliato: Rimuovere se non utilizzi i servizi di ripristino di Google. Effetto: Non potrai ripristinare dati da backup Google.
+com.google.android.apps.setupwizard.searchselector|Consigliato: Rimuovere, utile solo durante la configurazione iniziale. Effetto: Nessun impatto evidente dopo la configurazione.
+com.google.android.apps.tachyon|Consigliato: Rimuovere se non usi Duo. Effetto: Non potrai fare videochiamate con Duo.
+com.google.android.apps.turbo|Consigliato: Rimuovere se preferisci gestire le impostazioni manualmente. Effetto: Potenziale riduzione delle ottimizzazioni automatiche.
+com.google.android.as|Consigliato: Rimuovere se non usi funzioni "ambient" di Google Assistant. Effetto: Funzionalità ridotte in Google Assistant.
+com.google.android.googlequicksearchbox|Consigliato: Rimuovere solo se non usi la ricerca vocale o widget di ricerca. Effetto: Il widget di ricerca Google sarà rimosso.
+com.google.android.healthconnect.controller|Consigliato: Rimuovere se non usi app compatibili con Health Connect. Effetto: Dati sanitari e fitness non saranno sincronizzati.
+com.google.android.nearby.halfsheet|Consigliato: Rimuovere se non utilizzi la condivisione nelle vicinanze. Effetto: Non potrai usare Nearby Share.
+com.google.android.partnersetup|Consigliato: Rimuovere se non usi configurazioni specifiche con partner Google. Effetto: Alcuni servizi di terze parti potrebbero non funzionare.
+com.google.android.printservice.recommendation|Consigliato: Rimuovere se non usi stampanti compatibili con Google. Effetto: Non potrai ricevere suggerimenti di stampa.
+com.google.android.projection.gearhead|Consigliato: Rimuovere solo se non usi Android Auto. Effetto: Non potrai utilizzare Android Auto.
+com.google.android.setupwizard|Consigliato: Rimuovere, utile solo nella configurazione iniziale. Effetto: Nessun impatto dopo la configurazione.
+com.google.android.tts|Consigliato: Rimuovere se non usi lettori vocali. Effetto: Funzioni di lettura vocale saranno disabilitate.
+com.google.android.youtube|Consigliato: Rimuovere se preferisci usare YouTube via browser. Effetto: Non potrai usare l'app di YouTube.
+com.google.ar.core|Consigliato: Rimuovere se non usi app con realtà aumentata. Effetto: Le app AR non funzioneranno.
+com.google.audio.hearing.visualization.accessibility.scribe|Consigliato: Rimuovere se non hai bisogno di queste funzioni. Effetto: Perdita delle funzionalità di accessibilità relative all'audio.
+com.hiya.star|Consigliato: Rimuovere se non usi funzioni di filtro chiamate. Effetto: Ridotta protezione contro chiamate spam.
+com.knox.vpn.proxyhandler|Consigliato: Rimuovere se non usi servizi VPN Samsung. Effetto: Non potrai configurare VPN tramite Knox.
+com.microsoft.appmanager|Consigliato: Rimuovere se non usi app Microsoft. Effetto: Integrazione ridotta con servizi Microsoft.
+com.microsoft.skydrive|Consigliato: Rimuovere se non usi OneDrive. Effetto: Non potrai sincronizzare i file con OneDrive.
+com.mygalaxy|Consigliato: Rimuovere se non la usi. Effetto: Nessun impatto evidente.
+com.netflix.mediaclient|Consigliato: Rimuovere se non usi Netflix o preferisci scaricarla dal Play Store. Effetto: Netflix non sarà disponibile finché non la reinstalli.
+com.netflix.partner.activation|Consigliato: Rimuovere se non usi Netflix o preferisci scaricarla dal Play Store. Effetto: Netflix non sarà disponibile finché non la reinstalli.
+com.opera.max.oem|Consigliato: Rimuovere se non la utilizzi. Effetto: Perdita delle funzioni di risparmio dati offerte da Opera.
+com.samsung.android.accessibility.talkback|Consigliato: Rimuovere se non usi funzioni di accessibilità visiva. Effetto: Le funzioni di lettura dello schermo non saranno disponibili.
+com.samsung.android.app.camera.sticker.facearavatar.preload|Consigliato: Rimuovere se non usi adesivi AR. Effetto: Gli adesivi preinstallati non saranno disponibili.
+com.samsung.android.app.clipboardedge|Consigliato: Rimuovere se non usi la funzione Clipboard Edge. Effetto: Perdita delle funzionalità di clipboard avanzate.
+com.samsung.android.app.cocktailbarservice|Consigliato: Rimuovere se non usi il pannello Edge. Effetto: Pannello Edge non funzionerà più.
+com.samsung.android.app.notes.addons|Consigliato: Rimuovere se non usi Samsung Notes. Effetto: Funzioni aggiuntive in Samsung Notes saranno rimosse.
+com.samsung.android.app.omcagent|Consigliato: Rimuovere se non usi funzioni specifiche di localizzazione Samsung. Effetto: Alcuni contenuti o funzionalità regionali potrebbero non funzionare.
+com.samsung.android.app.reminder|Consigliato: Rimuovere se non usi Samsung Reminder. Effetto: Non potrai utilizzare l'app Reminder di Samsung.
+com.samsung.android.app.routines|Consigliato: Rimuovere se non utilizzi automazioni basate su Routines. Effetto: Non potrai creare automazioni con Samsung Routines.
+com.samsung.android.app.watchmanagerstub|Consigliato: Rimuovere se non hai un dispositivo wearable Samsung. Effetto: Non potrai gestire dispositivi indossabili con questa app.
+com.samsung.android.ardrawing|Consigliato: Rimuovere se non usi funzioni AR per disegnare. Effetto: Perdita delle funzionalità di disegno AR.
+com.samsung.android.aremoji|Consigliato: Rimuovere se non usi emoji in AR. Effetto: Funzioni AR Emoji saranno disabilitate.
+com.samsung.android.aremojieditor|Consigliato: Rimuovere se non modifichi AR Emoji. Effetto: Non potrai personalizzare AR Emoji.
+com.samsung.android.arzone|Consigliato: Rimuovere se non usi funzioni AR. Effetto: Perdita delle funzioni di realtà aumentata.
+com.samsung.android.beaconmanager|Consigliato: Rimuovere se non usi funzioni basate su beacon. Effetto: Perdita del supporto ai beacon.
+com.samsung.android.dynamiclock|Consigliato: Rimuovere se non usi sfondi dinamici. Effetto: Gli sfondi dinamici non saranno più disponibili.
+com.samsung.android.game.gamehome|Consigliato: Rimuovere se non usi Game Home. Effetto: Non potrai accedere al hub giochi Samsung.
+com.samsung.android.game.gametools|Consigliato: Rimuovere se non giochi sul dispositivo. Effetto: Non potrai usare strumenti specifici per i giochi.
+com.samsung.android.ipsgeofence|Consigliato: Rimuovere se non usi funzioni di localizzazione avanzate. Effetto: Funzioni di localizzazione avanzate potrebbero non funzionare.
+com.samsung.android.kidsinstaller|Consigliato: Rimuovere se non usi questa modalità. Effetto: La modalità Bambino non sarà disponibile.
+com.samsung.android.livestickers|Consigliato: Rimuovere se non usi adesivi live. Effetto: Gli adesivi live non saranno più disponibili.
+com.samsung.android.location|Consigliato: Rimuovere se non usi app Samsung che richiedono localizzazione avanzata. Effetto: Alcune app Samsung potrebbero perdere funzionalità di localizzazione.
+com.samsung.android.mapsagent|Consigliato: Rimuovere se non usi servizi di localizzazione Samsung. Effetto: Perdita di funzionalità di sincronizzazione mappa in app Samsung.
+com.samsung.android.sdk.handwriting|Consigliato: Rimuovere se non usi funzioni di scrittura a mano libera. Effetto: Le app Samsung per la scrittura manuale non funzioneranno correttamente.
+com.samsung.android.setupindiaservicestnc|Consigliato: Rimuovere se non utilizzi un dispositivo nel mercato indiano. Effetto: Nessun impatto evidente al di fuori dell'India.
+com.samsung.android.shortcutbackupservice|Consigliato: Rimuovere se non usi backup delle scorciatoie Samsung. Effetto: Perdita della funzione di backup delle scorciatoie.
+com.samsung.android.sm.devicesecurity|Consigliato: Rimuovere solo se non usi protezione Knox o Samsung. Effetto: Potenziale perdita di funzioni di sicurezza avanzata.
+com.samsung.android.smartswitchassistant|Consigliato: Rimuovere se non trasferisci dati da altri dispositivi. Effetto: Non potrai utilizzare Smart Switch per trasferimenti dati.
+com.samsung.android.spayfw|Consigliato: Rimuovere se non usi Samsung Pay. Effetto: Samsung Pay non funzionerà più.
+com.samsung.android.spaymini|Consigliato: Rimuovere se non usi Samsung Pay Mini. Effetto: Non potrai utilizzare Samsung Pay Mini.
+com.samsung.android.stickercenter|Consigliato: Rimuovere se non usi adesivi Samsung. Effetto: Gli adesivi Samsung non saranno più disponibili.
+com.samsung.android.themecenter|Consigliato: Rimuovere se non usi temi Samsung. Effetto: Non potrai cambiare temi tramite Theme Center.
+com.samsung.android.themestore|Consigliato: Rimuovere se non acquisti o scarichi temi da Samsung. Effetto: Non potrai accedere al negozio di temi Samsung.
+com.samsung.android.visualars|Consigliato: Rimuovere se non usi il supporto Samsung. Effetto: Funzioni di supporto visivo Samsung non disponibili.
+com.samsung.clipboardsaveservice|Consigliato: Rimuovere se non usi funzionalità avanzate di clipboard. Effetto: La gestione avanzata degli appunti non sarà più disponibile.
+com.samsung.discover|Consigliato: Rimuovere se non vuoi suggerimenti. Effetto: Non riceverai suggerimenti di contenuti e app Samsung.
+com.samsung.ecomm.global.in|Consigliato: Rimuovere se non usi l'app di shopping Samsung. Effetto: Perdita di accesso a funzionalità di shopping tramite Samsung.
+com.samsung.gpuwatchapp|Consigliato: Rimuovere se non monitori le prestazioni grafiche. Effetto: Non potrai monitorare l'uso della GPU.
+com.samsung.klmsagent|Consigliato: Rimuovere solo se non usi funzioni Knox. Effetto: Riduzione delle funzionalità di sicurezza Samsung Knox.
+com.samsung.storyservice|Consigliato: Rimuovere se non usi funzioni di storie fotografiche. Effetto: Non potrai creare storie fotografiche automatiche.
+com.sec.android.app.chromecustomizations|Consigliato: Rimuovere se non ti servono personalizzazioni Samsung per Chrome. Effetto: L'app Chrome funzionerà come su qualsiasi altro dispositivo.
+com.sec.android.app.DataCreate|Consigliato: Rimuovere, solitamente non necessaria. Effetto: Nessun impatto evidente per l'utente.
+com.sec.android.app.fm|Consigliato: Rimuovere se non ascolti la radio FM. Effetto: Non potrai ascoltare la radio FM.
+com.sec.android.app.kidshome|Consigliato: Rimuovere se non utilizzi la modalità Bambino. Effetto: Non potrai accedere alla modalità Bambino sul dispositivo.
+com.sec.android.app.magnifier|Consigliato: Rimuovere se non usi la funzione lente d'ingrandimento. Effetto: Perdita di questa funzione di accessibilità.
+com.sec.android.app.quicktool|Consigliato: Rimuovere se non utilizzi Quick Tool. Effetto: Non potrai accedere alle scorciatoie rapide di Quick Tool.
+com.sec.android.app.soundalive|Consigliato: Rimuovere se non usi le personalizzazioni audio Samsung. Effetto: Non potrai personalizzare l'audio con l'equalizzatore SoundAlive.
+com.sec.android.app.wlantest|Consigliato: Rimuovere se non sei uno sviluppatore o tecnico che usa questa app. Effetto: Nessun impatto per l'utente medio.
+com.sec.android.autodoodle.service|Consigliato: Rimuovere se non usi disegni automatici o funzioni simili. Effetto: Perdita di funzioni relative ai disegni automatici.
+com.sec.android.daemonapp|Consigliato: Rimuovere se non usi widget o app meteo Samsung. Effetto: Le app o i widget Samsung relativi al meteo non funzioneranno.
+com.sec.android.easyMover|Consigliato: Rimuovere se non trasferisci dati tra dispositivi Samsung. Effetto: Non potrai usare Easy Mover per trasferire contenuti.
+com.sec.android.easyMover.Agent|Consigliato: Rimuovere se hai già rimosso Easy Mover. Effetto: Nessun impatto aggiuntivo se Easy Mover è già rimosso.
+com.sec.android.easyonehand|Consigliato: Rimuovere se non utilizzi la modalità a una mano. Effetto: La modalità a una mano non sarà più disponibile.
+com.sec.android.mimage.avatarstickers|Consigliato: Rimuovere se non usi adesivi in Samsung Messages. Effetto: Non potrai utilizzare questi adesivi nei messaggi.
+com.sec.android.smartfpsadjuster|Consigliato: Rimuovere se non giochi o non noti miglioramenti con questa funzione. Effetto: Perdita di ottimizzazioni grafiche per il framerate.
+com.sec.android.widgetapp.webmanual|Consigliato: Rimuovere se non utilizzi il manuale online Samsung. Effetto: Non potrai accedere al manuale tramite il widget.
+com.sec.hearingadjust|Consigliato: Rimuovere se non utilizzi l'app per l'audio personalizzato. Effetto: Perdita di questa funzionalità di accessibilità.
+com.sec.location.nsflp2|Consigliato: Rimuovere se non usi funzioni avanzate di geolocalizzazione. Effetto: Alcuni servizi di localizzazione avanzati potrebbero non funzionare.
+com.sec.spp.push|Consigliato: Rimuovere se non utilizzi notifiche o aggiornamenti push Samsung. Effetto: Potenziale perdita di notifiche push da app Samsung.
+com.snap.camerakit.plugin.v1|Consigliato: Rimuovere se non utilizzi applicazioni che sfruttano questo plugin. Effetto: Le app che dipendono dal plugin potrebbero non funzionare.
