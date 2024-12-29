@@ -11,7 +11,7 @@ With this script, you can manually delete all the packages you don't use.
 # How to use it?
 
 ## Step 1: Preparing your Android phone.
-Connect your Android device to your PC using a USB cable (Make sure it supports data transfer), and enable the **"USB Debugging"**.
+Connect your Android device to your PC using a USB cable (Make sure it supports data transfer), and enable **"USB Debugging"**.
 Check the [Android official guide](https://developer.android.com/studio/debug/dev-options) to see how to enable it.
 
 Trust the computer's fingerprint when asked on the phone.
